@@ -1,3 +1,4 @@
+/* Titre */
 h1, h2 {
   font-family: 'Open-sans', sans-serif; 
   color: #40E0D0;
@@ -5,6 +6,7 @@ h1, h2 {
   text-decoration: none; 
 }
 
+/* Corps du texte */
 body {
   background-color: #000;
 }
